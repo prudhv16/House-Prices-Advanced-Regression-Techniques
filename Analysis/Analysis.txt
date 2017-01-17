@@ -1,0 +1,28 @@
+'''
+LotConfig : 64140.9489657
+
+
+LotArea : 67616.9497448
+LandSlope : 3.80920254924e+13
+Neighborhood : 1.38848911555e+12
+OverallCond : ??
+LandContour : 2.32520685722e+12
+Condition1 : 188263320109.0
+Street :  155331845927.0
+Condition2 : 5.54837779491e+12
+WoodDeckSF : 2.60291184848e+14
+
+Observation :- error is varying a lot ??
+check to see if any issue in our rmse 
+'''
+
+
+'''
+after changing error function
+LotConfig : 63549.5053956
+'''
+
+with log
+'''
+LotConfig : 0.298930553223
+'''
